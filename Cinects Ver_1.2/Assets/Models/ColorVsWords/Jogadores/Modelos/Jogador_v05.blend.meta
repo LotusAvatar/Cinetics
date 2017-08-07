@@ -1,0 +1,2898 @@
+fileFormatVersion: 2
+guid: 3702216abecaf9f43a80ae904e495718
+timeCreated: 1445523445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Lumbergh_Hair
+    100006: Lumbergh_Hair_001
+    100008: mixamorig_Head
+    100010: mixamorig_HeadTop_End
+    100012: mixamorig_Hips
+    100014: mixamorig_LeftArm
+    100016: mixamorig_LeftFoot
+    100018: mixamorig_LeftForeArm
+    100020: mixamorig_LeftHand
+    100022: mixamorig_LeftHandIndex1
+    100024: mixamorig_LeftHandIndex2
+    100026: mixamorig_LeftHandIndex3
+    100028: mixamorig_LeftHandIndex4
+    100030: mixamorig_LeftLeg
+    100032: mixamorig_LeftShoulder
+    100034: mixamorig_LeftToe_End
+    100036: mixamorig_LeftToeBase
+    100038: mixamorig_LeftUpLeg
+    100040: mixamorig_Neck
+    100042: mixamorig_RightArm
+    100044: mixamorig_RightFoot
+    100046: mixamorig_RightForeArm
+    100048: mixamorig_RightHand
+    100050: mixamorig_RightHandIndex1
+    100052: mixamorig_RightHandIndex2
+    100054: mixamorig_RightHandIndex3
+    100056: mixamorig_RightHandIndex4
+    100058: mixamorig_RightLeg
+    100060: mixamorig_RightShoulder
+    100062: mixamorig_RightToe_End
+    100064: mixamorig_RightToeBase
+    100066: mixamorig_RightUpLeg
+    100068: mixamorig_Spine
+    100070: mixamorig_Spine1
+    100072: mixamorig_Spine2
+    400000: Armature
+    400002: //RootNode
+    400004: Lumbergh_Hair
+    400006: Lumbergh_Hair_001
+    400008: mixamorig_Head
+    400010: mixamorig_HeadTop_End
+    400012: mixamorig_Hips
+    400014: mixamorig_LeftArm
+    400016: mixamorig_LeftFoot
+    400018: mixamorig_LeftForeArm
+    400020: mixamorig_LeftHand
+    400022: mixamorig_LeftHandIndex1
+    400024: mixamorig_LeftHandIndex2
+    400026: mixamorig_LeftHandIndex3
+    400028: mixamorig_LeftHandIndex4
+    400030: mixamorig_LeftLeg
+    400032: mixamorig_LeftShoulder
+    400034: mixamorig_LeftToe_End
+    400036: mixamorig_LeftToeBase
+    400038: mixamorig_LeftUpLeg
+    400040: mixamorig_Neck
+    400042: mixamorig_RightArm
+    400044: mixamorig_RightFoot
+    400046: mixamorig_RightForeArm
+    400048: mixamorig_RightHand
+    400050: mixamorig_RightHandIndex1
+    400052: mixamorig_RightHandIndex2
+    400054: mixamorig_RightHandIndex3
+    400056: mixamorig_RightHandIndex4
+    400058: mixamorig_RightLeg
+    400060: mixamorig_RightShoulder
+    400062: mixamorig_RightToe_End
+    400064: mixamorig_RightToeBase
+    400066: mixamorig_RightUpLeg
+    400068: mixamorig_Spine
+    400070: mixamorig_Spine1
+    400072: mixamorig_Spine2
+    4300000: Lumbergh_Hair_001
+    4300002: Lumbergh_Hair
+    7400000: Default Take
+    7400002: Chute_Forte
+    7400004: Chute_Fraco
+    7400006: Chute_Medio
+    7400008: Correndo
+    7400010: Erro_01
+    7400012: Erro_02
+    7400014: Erro_03
+    7400016: Idle
+    7400018: Indo_Sentar
+    7400020: Levantando
+    7400022: Posicionando
+    7400024: Posicionando_02
+    7400026: Sentado_Acertou
+    7400028: Sentado_Acertou_02
+    7400030: Sentado_Acertou_03
+    7400032: Sentado_Apoio
+    7400034: Sentado_Apoio_02
+    7400036: Sentado_Comemorando
+    7400038: Sentado_Comemorando_02
+    7400040: Sentado_Comemorando_03
+    7400042: Sentado_Idle
+    7400044: Sentando
+    7400046: Victory_01
+    7400048: Victory_02
+    7400050: Voltando
+    7400052: Walking
+    9500000: //RootNode
+    13700000: Lumbergh_Hair
+    13700002: Lumbergh_Hair_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Chute_Forte
+      takeName: Chute_Forte
+      firstFrame: -1
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Chute_Fraco
+      takeName: Chute_Fraco
+      firstFrame: -1
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Chute_Medio
+      takeName: Chute_Medio
+      firstFrame: -1
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Correndo
+      takeName: Correndo
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Erro_01
+      takeName: Erro_01
+      firstFrame: -1
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .492581606
+        functionName: OnEndStanndingReaction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Erro_02
+      takeName: Erro_02
+      firstFrame: 0
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .759643912
+        functionName: OnEndStanndingReaction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Erro_03
+      takeName: Erro_03
+      firstFrame: -1
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .851631999
+        functionName: OnEndStanndingReaction
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: -1
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Indo_Sentar
+      takeName: Indo_Sentar
+      firstFrame: -1
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Levantando
+      takeName: Levantando
+      firstFrame: -1
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Posicionando
+      takeName: Posicionando
+      firstFrame: -1
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Posicionando_02
+      takeName: Posicionando_02
+      firstFrame: -1
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Acertou
+      takeName: Sentado_Acertou
+      firstFrame: -1
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Acertou_02
+      takeName: Sentado_Acertou_02
+      firstFrame: -1
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Acertou_03
+      takeName: Sentado_Acertou_03
+      firstFrame: -1
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Apoio
+      takeName: Sentado_Apoio
+      firstFrame: -1
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Apoio_02
+      takeName: Sentado_Apoio_02
+      firstFrame: -1
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Comemorando
+      takeName: Sentado_Comemorando
+      firstFrame: -1
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Comemorando_02
+      takeName: Sentado_Comemorando_02
+      firstFrame: -1
+      lastFrame: 102
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Comemorando_03
+      takeName: Sentado_Comemorando_03
+      firstFrame: -1
+      lastFrame: 132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentado_Idle
+      takeName: Sentado_Idle
+      firstFrame: -1
+      lastFrame: 191
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sentando
+      takeName: Sentando
+      firstFrame: -1
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Victory_01
+      takeName: Victory_01
+      firstFrame: -1
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Victory_02
+      takeName: Victory_02
+      firstFrame: -1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Voltando
+      takeName: Voltando
+      firstFrame: -1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking
+      takeName: Walking
+      firstFrame: -1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/mixamorig_Hips
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_LeftUpLeg/mixamorig_LeftLeg/mixamorig_LeftFoot/mixamorig_LeftToeBase/mixamorig_LeftToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_RightUpLeg/mixamorig_RightLeg/mixamorig_RightFoot/mixamorig_RightToeBase/mixamorig_RightToe_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_LeftShoulder/mixamorig_LeftArm/mixamorig_LeftForeArm/mixamorig_LeftHand/mixamorig_LeftHandIndex1/mixamorig_LeftHandIndex2/mixamorig_LeftHandIndex3/mixamorig_LeftHandIndex4
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_Neck/mixamorig_Head/mixamorig_HeadTop_End
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3
+        weight: 1
+      - path: Armature/mixamorig_Hips/mixamorig_Spine/mixamorig_Spine1/mixamorig_Spine2/mixamorig_RightShoulder/mixamorig_RightArm/mixamorig_RightForeArm/mixamorig_RightHand/mixamorig_RightHandIndex1/mixamorig_RightHandIndex2/mixamorig_RightHandIndex3/mixamorig_RightHandIndex4
+        weight: 1
+      - path: Lumbergh_Hair
+        weight: 1
+      - path: Lumbergh_Hair_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

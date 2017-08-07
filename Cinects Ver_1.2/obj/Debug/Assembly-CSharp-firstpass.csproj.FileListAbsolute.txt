@@ -1,0 +1,54 @@
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\OpenCvSharp.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEditor.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.xml
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEditor.xml
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\usuario\Desktop\Bruno\Projects\Cinects\obj\Debug\Assembly-CSharp-firstpass.pdb
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\OpenCvSharp.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEditor.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.VR.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Mono.Cecil.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Unity.DataContract.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEditor.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.UI.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.Analytics.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\Temp\bin\Debug\UnityEngine.VR.xml
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Cinetic-FONTES\ProjetoUnity\Cinects Ver_1.2\obj\Debug\Assembly-CSharp-firstpass.pdb
